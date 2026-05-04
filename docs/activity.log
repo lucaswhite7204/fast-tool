@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-01T11:49:41Z
-Entry: style: format codebase according to project linting conventions
-Sequence: 25/102
+Last updated: 2026-05-04T18:04:29Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 26/102
