@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-07-01T10:56:50Z
-Entry: fix: ensure graceful socket teardown on unexpected process exit
-Sequence: 59/102
+Last updated: 2026-07-02T18:03:18Z
+Entry: docs: update installation guidelines and setup examples
+Sequence: 60/102
