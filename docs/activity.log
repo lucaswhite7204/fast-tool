@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-08-05T09:42:00Z
-Entry: fix: ensure graceful socket teardown on unexpected process exit
-Sequence: 78/102
+Last updated: 2026-08-06T10:12:02Z
+Entry: docs: add architecture diagram and sequence notes to README
+Sequence: 79/102
